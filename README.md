@@ -1,6 +1,7 @@
 # Rhino Python Codes Vault
 Rhino + Pythin codes  (Rhino 7)
 ## Module Rotation
+Idk why do links below are not working :(
 ### Readme
 - [EN_Module_Rotation.md](rhino-python-sn/EN_Module_Rotation.md)
 - [JP_Module_Rotation.md](rhino-python-sn/JP_Module_Rotation.md)
